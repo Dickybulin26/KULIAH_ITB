@@ -1,0 +1,1 @@
+ini adalah repo untuk menyimpan file pembelajaran machine learning di kuliah informatika
