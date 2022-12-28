@@ -1,2 +1,2 @@
-# KULIAH_INFORMATIKA
-repo untuk kuliah informatika 
+# *KULIAH_INFORMATIKA*
+repo untuk kuliah ITB 
